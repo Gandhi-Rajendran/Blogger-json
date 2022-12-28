@@ -1,0 +1,40 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "Top 11 React Performance Optimization Techniques in 2023",
+      "author": "Paridhi Wadhwani",
+      "description": "Developers and product owners are often scared of the performance issues when dealing with a React Js application. This unpopular belief has kept them from using React framework's majestic benefits. However, once you understand how and why React applications lag in performance and how you can enhance React performance, you can leverage the many benefits of this modern frontend framework. This blog covers the 11 best React app performance optimization techniques to grow beyond the risks and pitfalls."
+    },
+    {
+      "id": 2,
+      "title": "Everything About React Micro Frontend",
+      "author": "Paridhi Wadhwani & Bhumik Prajapati",
+      "description": "A complete guide on how one can implement React Micro frontend along with a firm understanding of the React Microservices Architecture, the benefits of such monolithic applications built using React Micro frontend, the various implementations of the same, and an ideal tutorial for building Micro frontend with React."
+    },
+    {
+      "id": 3,
+      "title": "How to Deploy React App on Netlify Using Github?",
+      "author": "Archita Nayak & Mokshit Shah",
+      "description": "All set with building an application but not sure about deploying it? We know the feeling of being so close yet stuck. But you don't have to worry about it! What are we here for? We have got a tutorial on how to deploy React app on Netlify using Github. Haven't tried it yet? Leave it to us! Just follow this step-by-step guide and start implementing it with us."
+    },
+    {
+      "id": 4,
+      "title": "How to Deploy React App on Heroku?",
+      "author": "Archita Nayak & Mokshit Shah",
+      "description": "Are you looking for the simplest tutorial to deploy React app on Heroku? Do you want to deploy a project last minute and don't know how to do it? Here's the tutorial for you!. In this tutorial, we have a simple to do ReactJS app which we will use to deploy. You can use any existing application or create a new one using create-react-app. Don't worry, we will discuss the steps from scratch."
+    },
+    {
+      "id": 5,
+      "title": "How to Deploy React App on Netlify Using Github?",
+      "author": "Archita Nayak & Dheeraj Kumar",
+      "description": "All set with building an application but not sure about deploying it? We know the feeling of being so close yet stuck. But you don't have to worry about it! What are we here for? We have got a tutorial on how to deploy React app on Netlify using Github. Haven't tried it yet? Leave it to us! Just follow this step-by-step guide and start implementing it with us."
+    },
+    {
+      "id": 6,
+      "title": "Implement React Pagination Using React Hooks and React Paginate",
+      "author": "Archita Nayak",
+      "description": "We often end up having a web application with a large number of data to be displayed. And at that time, Pagination comes to the rescue for managing such a vast dataset. In this blogpost, we will build a small application to implement ReactJS pagination using React Hooks and a package named React Paginate. Without further ado, let's start coding!"
+    }
+  ]
+}
